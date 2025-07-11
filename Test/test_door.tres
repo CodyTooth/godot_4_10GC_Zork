@@ -1,0 +1,8 @@
+[gd_resource type="Resource" script_class="test_object" load_steps=2 format=3 uid="uid://d0d7rn7iv7l7n"]
+
+[ext_resource type="Script" uid="uid://bhhkrbvbfkjlw" path="res://Test/base_object.gd" id="1_uhhag"]
+
+[resource]
+script = ExtResource("1_uhhag")
+canBeOpened = true
+metadata/_custom_type_script = "uid://bhhkrbvbfkjlw"
